@@ -10,5 +10,7 @@ Project is created with: HTML, CSS & JavaScript(in progress).
 Fully Responsive
 
 ## Live demo
-I'll add the link when I'm done :)
+https://magdalenaes.github.io/room-homepage/
+
+
 
